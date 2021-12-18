@@ -1,0 +1,20 @@
+.address{
+    padding: 20px 180px;
+    
+}
+
+.flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.social{
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    color:white;
+}
+.icon3{
+    margin-right: 10px;
+}

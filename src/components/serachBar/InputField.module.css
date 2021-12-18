@@ -1,0 +1,42 @@
+.inputField{
+    padding: 0px 440px;
+    display: flex;
+    align-items: center;
+    
+    
+
+}
+.input{
+    width: 700px;
+    height: 40px;
+    border:none;
+    border-radius: 10px;
+    position: relative;
+    outline: none;
+    background-color: rgb(78, 76, 78);
+    
+}
+::placeholder {
+    color: rgb(168, 147, 147);
+    font-size:20px;
+    position: absolute;
+    margin: 10px 50px;
+    
+  }
+  .icon2{
+      font-size: 25px;
+      color: rgb(35, 4, 109);
+      position: absolute;
+      left:450px;
+  }
+  .btn{
+      padding: 7px;
+      background-color: rgb(17, 0, 172);
+      position: absolute;
+      right:443px;
+      border-radius: 10px;
+      border: none;
+  }
+  .btn:hover{
+      background-color: rgb(51, 33, 218);
+  }

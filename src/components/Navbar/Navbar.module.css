@@ -1,0 +1,20 @@
+.nav{
+    padding:90px 440px;
+    display: flex;
+    justify-content: space-between;
+
+}
+.title{
+    font-size: 30px;
+    color: white;
+}
+.sunGroup{
+    display: flex;
+    align-items: center;
+    
+}
+.icon{
+    font-size: 25px;
+    margin-left: 20px;
+    color: rgb(226, 226, 226);
+}
